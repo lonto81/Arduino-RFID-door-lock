@@ -2,7 +2,7 @@
 
 // Simple demo of blinking using BiColorLED library
 // Requires v1.1 or greater
-// (C) 2012 Wolfgang Faust
+
 
 // To see the effects of this example, just plug a bi-color LED
 // into pins 4 and 5, along with the appropriate resistors.
