@@ -1,7 +1,5 @@
 #include <BiColorLED.h>
 
-// Simple demo of features available in V1.0 of the BiColorLED library
-// (C) 2012 Wolfgang Faust
 
 // To see the effects of this example, just plug a bi-color LED
 // into pins 4 and 5, along with the appropriate resistors.
