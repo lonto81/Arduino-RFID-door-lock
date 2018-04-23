@@ -34,8 +34,8 @@ char buffer[85];    // make sure this is large enough for the largest string it 
 
 
 
-char ssid[] = "LoTemp";      //  your network SSID (name)
-char pass[] = "Mot_Catz23*$%";   // your network password
+char ssid[] = "";      //  your network SSID (name)
+char pass[] = "";   // your network password
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 int status = WL_IDLE_STATUS;
 
