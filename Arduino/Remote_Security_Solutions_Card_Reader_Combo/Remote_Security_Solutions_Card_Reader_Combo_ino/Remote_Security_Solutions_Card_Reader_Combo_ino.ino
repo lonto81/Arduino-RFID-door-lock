@@ -13,8 +13,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[] = "*******";      //  your network SSID (name) 
-char pass[] = "*********";   // your network password
+char ssid[] = "";      //  your network SSID (name) 
+char pass[] = "";   // your network password
 char tag[CODE_LEN];  
 int readLed = 4;
 int invalidCardled = 5;
