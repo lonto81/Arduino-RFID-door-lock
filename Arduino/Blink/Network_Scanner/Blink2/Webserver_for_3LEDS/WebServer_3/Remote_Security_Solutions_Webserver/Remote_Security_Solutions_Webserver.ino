@@ -13,8 +13,8 @@
 #include <WiFi.h>
 
 
-char ssid[] = "LoTemp";      //  your network SSID (name) 
-char pass[] = "Mot_Catz23*$%";   // your network password
+char ssid[] = "";      //  your network SSID (name) 
+char pass[] = "";   // your network password
 
 
 int status = WL_IDLE_STATUS;
